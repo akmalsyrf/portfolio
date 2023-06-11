@@ -1,0 +1,233 @@
+{
+  "experience": [
+    {
+      "date": "Aug 2022 - present",
+      "title": "Fullstack Developer",
+      "company": "PT ITOMMEY BINTANG INDONESIA"
+    },
+    {
+      "date": "Mar 2023 - May 2023",
+      "title": "Frontend Developer",
+      "company": "PT Tema Data Rekayasa Digital"
+    },
+    {
+      "date": "Mar 2022 - Jul 2022",
+      "title": "Node.js Developer",
+      "company": "Merah Putih Academy"
+    }
+  ],
+  "academic": [
+    {
+      "date": "Jul 2023 - present",
+      "title": "Informatic System",
+      "place": "OPEN UNIVERSITY"
+    },
+    {
+      "date": "Nov 2021 - Jan 2022",
+      "title": "Fullstack Javascript Developer",
+      "place": "Dumbways Indonesia Teknologi Bootcamp"
+    },
+    {
+      "date": "Apr 2017 - Apr 2020",
+      "title": "High School",
+      "place": "SMAN 1 Cibarusah"
+    }
+  ],
+  "tools": [
+    {
+      "id": 1,
+      "iconClass": "devicon-react-original colored m-2"
+    },
+    {
+      "id": 2,
+      "iconClass": "devicon-redux-original colored m-2"
+    },
+    {
+      "id": 3,
+      "iconClass": "devicon-nextjs-plain-wordmark m-2"
+    },
+    {
+      "id": 4,
+      "iconClass": "devicon-vuejs-plain colored m-2"
+    },
+    {
+      "id": 5,
+      "iconClass": "devicon-nuxtjs-plain colored m-2"
+    },
+    {
+      "id": 6,
+      "iconClass": "devicon-javascript-plain colored m-2"
+    },
+    {
+      "id": 7,
+      "iconClass": "devicon-nodejs-plain colored m-2"
+    },
+    {
+      "id": 8,
+      "iconClass": "devicon-typescript-plain colored m-2"
+    },
+    {
+      "id": 9,
+      "iconClass": "devicon-express-original-wordmark m-2"
+    },
+    {
+      "id": 10,
+      "iconClass": "devicon-nestjs-plain colored m-2"
+    },
+    {
+      "id": 11,
+      "iconClass": "devicon-go-original-wordmark colored m-2"
+    },
+    {
+      "id": 12,
+      "iconClass": "devicon-mysql-plain colored m-2"
+    },
+    {
+      "id": 13,
+      "iconClass": "devicon-mongodb-plain colored m-2"
+    },
+    {
+      "id": 14,
+      "iconClass": "devicon-postgresql-plain colored m-2"
+    },
+    {
+      "id": 15,
+      "iconClass": "devicon-sequelize-plain-wordmark colored m-2"
+    },
+    {
+      "id": 16,
+      "iconClass": "devicon-redis-plain colored m-2"
+    },
+    {
+      "id": 17,
+      "iconClass": "devicon-socketio-original m-2"
+    },
+    {
+      "id": 18,
+      "iconClass": "devicon-electron-original colored m-2"
+    },
+    {
+      "id": 19,
+      "iconClass": "devicon-python-plain-wordmark m-2"
+    },
+    {
+      "id": 20,
+      "iconClass": "devicon-docker-plain colored m-2"
+    },
+    {
+      "id": 21,
+      "iconClass": "devicon-git-plain colored m-2"
+    },
+    {
+      "id": 22,
+      "iconClass": "devicon-vscode-plain colored m-2"
+    }
+  ],
+  "project": [
+    {
+      "name": "Instagram Clone",
+      "url": "https://github.com/akmalsyrf/instagram-clone",
+      "img": "/image/project-2.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At explicabo laudantium eos error voluptas",
+      "stack": "React Native, Zustand, Firebase"
+    },
+    {
+      "name": "API Instagram Clone",
+      "url": "https://github.com/akmalsyrf/api-instagram-clone",
+      "img": "/image/pngwing.com.png",
+      "description": "API for Instagram Clone",
+      "stack": "Node.js, Express.js, Socket.io"
+    },
+    {
+      "name": "Flappybird Clone",
+      "url": "https://drive.google.com/file/d/1PMorfaCDl9kLIy8le2csrS_Yy0tvqw4Z/view?usp=drive_link",
+      "img": "/image/project-2.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At explicabo laudantium eos error voluptas",
+      "stack": "React Native, Matters.js"
+    },
+    {
+      "name": "Hollyways",
+      "url": "https://github.com/akmalsyrf/HollyWays",
+      "img": "/image/project-2.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At explicabo laudantium eos error voluptas",
+      "stack": "React.js, Bootstrap"
+    },
+    {
+      "name": "API Hollyways",
+      "url": "https://github.com/akmalsyrf/API-HollyWays",
+      "img": "/image/pngwing.com.png",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At explicabo laudantium eos error voluptas",
+      "stack": "Node.js, Express.js, Socket.io, Sequelize, MySQL, Multer, Midtrans"
+    },
+    {
+      "name": "Dumbsound",
+      "url": "https://github.com/akmalsyrf/DumbSound",
+      "img": "/image/project-2.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At explicabo laudantium eos error voluptas",
+      "stack": "React.js, Bootstrap"
+    },
+    {
+      "name": "API Dumbsound",
+      "url": "https://github.com/akmalsyrf/API-DumbSound",
+      "img": "/image/pngwing.com.png",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At explicabo laudantium eos error voluptas",
+      "stack": "Node.js, Express.js, Sequelize, MySQL, Multer"
+    },
+    {
+      "name": "RememberDo",
+      "url": "https://github.com/akmalsyrf/RememberDo",
+      "img": "/image/project-2.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At explicabo laudantium eos error voluptas",
+      "stack": "React Native"
+    },
+    {
+      "name": "API RememberDo",
+      "url": "https://github.com/akmalsyrf/API-RememberDo",
+      "img": "/image/pngwing.com.png",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At explicabo laudantium eos error voluptas",
+      "stack": "Node.js, Express.js, Sequelize, MySQL"
+    },
+    {
+      "name": "API StoreGG",
+      "url": "https://github.com/akmalsyrf/API-storegg",
+      "img": "/image/pngwing.com.png",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At explicabo laudantium eos error voluptas",
+      "stack": "Node.js, Express.js, Admin-LTE, Mongoose, MongoDB"
+    },
+    {
+      "name": "Rock-Paper-Scissor Classification",
+      "url": "https://github.com/akmalsyrf/RockPaperScissors-classification",
+      "img": "/image/brain-technology-unique-logo_414847-335.avif",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At explicabo laudantium eos error voluptas",
+      "stack": "Python, Tensorflow"
+    },
+    {
+      "name": "API Crowdfunding",
+      "url": "https://github.com/akmalsyrf/api-crowdfunding",
+      "img": "/image/pngwing.com.png",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At explicabo laudantium eos error voluptas",
+      "stack": "Go, Gin Gonic, GORM, Midtrans, PostgreSQL"
+    },
+    {
+      "name": "Smart Contract Studycase",
+      "url": "https://github.com/akmalsyrf/smart-contract-studycase",
+      "img": "/image/smart-contracts.png",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At explicabo laudantium eos error voluptas",
+      "stack": "Node.js, Hardhat.js, Solidity"
+    },
+    {
+      "name": "Forum API",
+      "url": "https://github.com/akmalsyrf/forum-api-backend",
+      "img": "/image/pngwing.com.png",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At explicabo laudantium eos error voluptas",
+      "stack": "Node.js, Hapi.js"
+    },
+    {
+      "name": "Calculator",
+      "url": "https://drive.google.com/file/d/1amGZVZl-FB8953kCz3D1jCDESQ4Q8n6Q/view?usp=sharing",
+      "img": "/image/project-2.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At explicabo laudantium eos error voluptas",
+      "stack": "React Native"
+    }
+  ]
+}
