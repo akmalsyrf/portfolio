@@ -26,7 +26,7 @@ export default function About() {
               style={{
                 width: "12rem",
                 position: "absolute",
-                left: "20px",
+                left: "-20px",
                 top: "-20px",
                 borderRadius: "10px",
               }}
