@@ -17,17 +17,14 @@ export default function About() {
 
   return (
     <section id="about" className={`${styles.section} p-5`}>
-      <h2 className="text-center">
-        Abou<span className={styles.underlineTitle}>t Me</span>
-      </h2>
       <div className="row p-md-2">
-        <div className="col-md-6 d-flex justify-content-center align-items-end p-3">
+        <div className="col-md-4 d-sm-flex justify-content-center align-items-end p-5">
           <div className={styles.box}>
             <img
               src="/image/1671364505922.jpg"
               alt=""
               style={{
-                width: "15rem",
+                width: "12rem",
                 position: "absolute",
                 left: "20px",
                 top: "-20px",
@@ -36,8 +33,11 @@ export default function About() {
             />
           </div>
         </div>
-        <div className="col-md-6 d-flex align-items-center text-center px-md-2">
+        <div className="col-md-8 d-flex align-items-center text-center px-md-2">
           <div className="">
+            <h2 className="text-center mb-3">
+              Abou<span className={styles.underlineTitle}>t Me</span>
+            </h2>
             <div className="pb-md-5">
               <p>
                 Lorem ipsum dolor sit, amet consectetur adipisicing elit.

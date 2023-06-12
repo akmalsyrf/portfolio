@@ -1,5 +1,7 @@
 import Head from "next/head";
+import Script from "next/script";
 import styles from "../styles/Home.module.css";
+
 import NavBar from "../components/Navbar";
 import Hero from "../components/Hero";
 import About from "../components/About";
@@ -36,20 +38,20 @@ export default function Home() {
       <Tools />
       <Projects />
       <Contact />
-      <Footer/>
+      <Footer />
 
-      <script
+      <Script
         src="https://cdn.jsdelivr.net/npm/react/umd/react.production.min.js"
         crossOrigin
-      ></script>
-      <script
+      ></Script>
+      <Script
         src="https://cdn.jsdelivr.net/npm/react-dom/umd/react-dom.production.min.js"
         crossOrigin
-      ></script>
-      <script
+      ></Script>
+      <Script
         src="https://cdn.jsdelivr.net/npm/react-bootstrap@next/dist/react-bootstrap.min.js"
         crossOrigin
-      ></script>
+      ></Script>
     </div>
   );
 }
