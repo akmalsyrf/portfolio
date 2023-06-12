@@ -25,6 +25,7 @@ export default function Projects() {
                   <div className={styles.flipCardInner}>
                     <div className={styles.flipCardFront}>
                       <img
+                        alt={dt.name}
                         className=""
                         src={dt.img}
                         style={{

@@ -5,7 +5,7 @@ import data from "../json/data.json";
 export default function Skills() {
   const { tools } = data;
   const [divider, setDivider] = useState(2);
-  if (typeof window !== "undefined") {
+  // if (typeof window !== "undefined") {
     useEffect(() => {
       const width = window.innerWidth;
 
@@ -21,7 +21,7 @@ export default function Skills() {
         setDivider(3);
       }
     }, []);
-  }
+  // }
   return (
     <section id="tools" className={`${styles.section} p-5`}>
       <h2 className="text-center">
