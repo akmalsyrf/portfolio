@@ -13,9 +13,9 @@ export default function Resume() {
         <div className="col-md-6 px-3">
           <h4 className="pb-3 text-center">Academic / Non Academic</h4>
           {academic.length > 0 &&
-            academic.map((dt) => {
+            academic.map((dt, i) => {
               return (
-                <div className={styles.resumeWrap}>
+                <div className={styles.resumeWrap} key={i}>
                   <h5 className="fw-bold text-warning">{dt.date}</h5>
                   <h2>{dt.title}</h2>
                   <span
@@ -40,9 +40,9 @@ export default function Resume() {
         <div className="col-md-6 px-3">
           <h4 className="pb-3 text-center">Experience</h4>
           {experience.length > 0 &&
-            experience.map((dt) => {
+            experience.map((dt, i) => {
               return (
-                <div className={styles.resumeWrap}>
+                <div className={styles.resumeWrap} key={i}>
                   <h5 className="fw-bold text-warning">{dt.date}</h5>
                   <h2>{dt.title}</h2>
                   <span

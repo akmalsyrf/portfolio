@@ -14,9 +14,9 @@ export default function Projects() {
 
       <div className="row pt-5 d-flex justify-content-center">
         {project.length > 0 &&
-          project.map((dt) => {
+          project.map((dt, i) => {
             return (
-              <div className={`${styles.flipCard} col-md-4 p-3 mb-5`}>
+              <div className={`${styles.flipCard} col-md-4 p-3 mb-5`} key={i}>
                 <Link
                   href={dt.url}
                   className="text-decoration-none"

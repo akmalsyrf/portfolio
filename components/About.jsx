@@ -22,7 +22,7 @@ export default function About() {
           <div className={styles.box}>
             <img
               src="/image/1671364505922.jpg"
-              alt=""
+              alt="profile"
               style={{
                 width: "12rem",
                 position: "absolute",

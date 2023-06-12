@@ -20,7 +20,7 @@ export default function Skills() {
       } else if (width >= 768) {
         setDivider(3);
       }
-    }, [window]);
+    }, []);
   }
   return (
     <section id="tools" className={`${styles.section} p-5`}>
@@ -29,12 +29,12 @@ export default function Skills() {
       </h2>
       <div className="py-5 text-center">
         {tools.length > 0 &&
-          tools.map((dt) => {
+          tools.map((dt, i) => {
             return (
-              <>
+              <span key={i}>
                 <i className={dt.iconClass} style={{ fontSize: "100px" }}></i>
                 {dt.id % divider === 0 && <br />}
-              </>
+              </span>
             );
           })}
       </div>
