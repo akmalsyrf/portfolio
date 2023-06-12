@@ -27,7 +27,7 @@ a {
 }
 
 .navbar {
-  background-color: var(--bg-dark);
+  background-color: var(--bg-dark) !important;
 }
 nav li a {
   color: var(--text-warning) !important;

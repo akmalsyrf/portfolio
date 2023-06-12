@@ -125,30 +125,9 @@
   ],
   "project": [
     {
-      "name": "Instagram Clone",
-      "url": "https://github.com/akmalsyrf/instagram-clone",
-      "img": "/image/project-2.jpg",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At explicabo laudantium eos error voluptas",
-      "stack": "React Native, Zustand, Firebase"
-    },
-    {
-      "name": "API Instagram Clone",
-      "url": "https://github.com/akmalsyrf/api-instagram-clone",
-      "img": "/image/pngwing.com.png",
-      "description": "API for Instagram Clone",
-      "stack": "Node.js, Express.js, Socket.io"
-    },
-    {
-      "name": "Flappybird Clone",
-      "url": "https://drive.google.com/file/d/1PMorfaCDl9kLIy8le2csrS_Yy0tvqw4Z/view?usp=drive_link",
-      "img": "/image/project-2.jpg",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At explicabo laudantium eos error voluptas",
-      "stack": "React Native, Matters.js"
-    },
-    {
       "name": "Hollyways",
       "url": "https://github.com/akmalsyrf/HollyWays",
-      "img": "/image/project-2.jpg",
+      "img": "/image/hollyways.png",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At explicabo laudantium eos error voluptas",
       "stack": "React.js, Bootstrap"
     },
@@ -162,7 +141,7 @@
     {
       "name": "Dumbsound",
       "url": "https://github.com/akmalsyrf/DumbSound",
-      "img": "/image/project-2.jpg",
+      "img": "/image/dumbsound.png",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At explicabo laudantium eos error voluptas",
       "stack": "React.js, Bootstrap"
     },
@@ -176,7 +155,7 @@
     {
       "name": "RememberDo",
       "url": "https://github.com/akmalsyrf/RememberDo",
-      "img": "/image/project-2.jpg",
+      "img": "/image/rememberdo.png",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At explicabo laudantium eos error voluptas",
       "stack": "React Native"
     },
@@ -186,6 +165,27 @@
       "img": "/image/pngwing.com.png",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At explicabo laudantium eos error voluptas",
       "stack": "Node.js, Express.js, Sequelize, MySQL"
+    },
+    {
+      "name": "Instagram Clone",
+      "url": "https://github.com/akmalsyrf/instagram-clone",
+      "img": "/image/instagram.png",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At explicabo laudantium eos error voluptas",
+      "stack": "React Native, Zustand, Firebase"
+    },
+    {
+      "name": "API Instagram Clone",
+      "url": "https://github.com/akmalsyrf/api-instagram-clone",
+      "img": "/image/pngwing.com.png",
+      "description": "API for Instagram Clone",
+      "stack": "Node.js, Express.js, Socket.io"
+    },
+    {
+      "name": "Flappybird Clone",
+      "url": "https://drive.google.com/file/d/1PMorfaCDl9kLIy8le2csrS_Yy0tvqw4Z/view?usp=drive_link",
+      "img": "/image/flappybird.png",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At explicabo laudantium eos error voluptas",
+      "stack": "React Native, Matters.js"
     },
     {
       "name": "API StoreGG",
@@ -225,7 +225,7 @@
     {
       "name": "Calculator",
       "url": "https://drive.google.com/file/d/1amGZVZl-FB8953kCz3D1jCDESQ4Q8n6Q/view?usp=sharing",
-      "img": "/image/project-2.jpg",
+      "img": "/image/calculator.png",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At explicabo laudantium eos error voluptas",
       "stack": "React Native"
     }

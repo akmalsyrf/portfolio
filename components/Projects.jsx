@@ -29,6 +29,7 @@ export default function Projects() {
                         src={dt.img}
                         style={{
                           width: "100%",
+                          objectFit: "cover",
                         }}
                       />
                     </div>
@@ -50,7 +51,7 @@ export default function Projects() {
           href="https://github.com/akmalsyrf?tab=repositories"
           target="blank"
         >
-          See My Repo on Github <span className="pl-5">&rarr;</span>
+          See My Another Repo on Github <span className="pl-5">&rarr;</span>
         </Button>
       </div>
     </section>

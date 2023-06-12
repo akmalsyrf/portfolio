@@ -21,12 +21,12 @@ export default function Hero() {
         <Typewriter
           options={{
             strings: [
-              "<span style='font-size : 2rem;'><span class='text-warning'>Fullstack</span> Developer</span>",
+              "<span style='font-size : 2rem;'>Junior <span class='text-warning'>Fullstack</span> Developer</span>",
               "<span style='font-size : 2rem;'><span class='text-warning'>Backend</span> Developer</span>",
               "<span style='font-size : 2rem;'><span class='text-warning'>Frontend</span> Developer</span>",
               "<span style='font-size : 2rem;'><span class='text-warning'>Mobile</span> Developer</span>",
-              "<span style='font-size : 2rem;'>Professional <span class='text-warning'>Google</span> Searcher</span>",
               "<span style='font-size : 2rem;'>Infinite <span class='text-warning'>Learner</span></span>",
+              "<span style='font-size : 2rem;'>Professional <span class='text-warning'>Google</span> Searcher</span>",
               "<span style='font-size : 2rem;'><span class='text-warning'>ChatGPT</span> Prompter</span>",
             ],
             autoStart: true,

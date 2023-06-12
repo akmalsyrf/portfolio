@@ -21,17 +21,17 @@ export default function About() {
         Abou<span className={styles.underlineTitle}>t Me</span>
       </h2>
       <div className="row p-md-2">
-        <div className="col-md-6 d-flex align-items-end p-md-5">
+        <div className="col-md-6 d-flex justify-content-center align-items-end p-3">
           <div className={styles.box}>
             <img
               src="/image/1671364505922.jpg"
               alt=""
               style={{
-                width: "20rem",
-                position :'absolute',
-                left : '20px',
-                top :'-20px',
-                borderRadius :'10px'
+                width: "15rem",
+                position: "absolute",
+                left: "20px",
+                top: "-20px",
+                borderRadius: "10px",
               }}
             />
           </div>
