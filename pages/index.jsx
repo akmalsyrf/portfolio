@@ -2,7 +2,7 @@ import Head from "next/head";
 import Script from "next/script";
 import styles from "../styles/Home.module.css";
 
-import NavBar from "../components/Navbar";
+import NavBar from "../components/NavBar";
 import Hero from "../components/Hero";
 import About from "../components/About";
 import Resume from "../components/Resume";
