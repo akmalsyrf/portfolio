@@ -22,12 +22,12 @@ a {
   }
   body {
     color: white;
-    background-color: var(--bg-dark);
+    background-color: #000000;
   }
 }
 
 .navbar {
-  background-color: var(--bg-dark) !important;
+  background-color: #000000 !important;
 }
 nav li a {
   color: var(--text-warning) !important;

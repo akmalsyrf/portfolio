@@ -16,7 +16,7 @@ export default function About() {
   };
 
   return (
-    <section id="about" className={`${styles.section} p-5`}>
+    <section id="about" className={`${styles.section} px-5 pb-5`}>
       <div className="row p-md-2">
         <div className="col-md-4 d-sm-flex justify-content-center align-items-end p-5">
           <div className={styles.box}>

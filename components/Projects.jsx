@@ -34,7 +34,7 @@ export default function Projects() {
                         }}
                       />
                     </div>
-                    <div className={`${styles.flipCardBack} p-3`}>
+                    <div className={`${styles.flipCardBack} p-3 text-light`}>
                       <h5 className="text-warning mb-3">{dt.name}</h5>
                       <p>{dt.description}</p>
                       <p className="mt-2">Stack : {dt.stack}</p>
