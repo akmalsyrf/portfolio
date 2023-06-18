@@ -36,7 +36,6 @@ export default function Hero() {
           />
           <p className="text-secondary pt-3">
             React.js &#8226; Next.js &#8226; React Native &#8226; Node.js
-            &#8226; Golang
           </p>
           <div className="mt-4">
             <Button
