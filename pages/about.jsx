@@ -46,14 +46,14 @@ export default function About() {
               </h2>
               <div className="pb-md-5">
                 <p>
-                  Hello! My name is Akmal Syarifuddin. I'm a Junior Fullstack
+                  Hello! My name is Akmal Syarifuddin. I&apos;m a Junior Fullstack
                   Developer, and Informatic System Student. I live in Jakarta,
                   Indonesia. I was born in Bekasi on December 29, 2001 (21 years
                   old).
                 </p>
                 <p>
                   I have experience as a Junior Fullstack Developer. I have an
-                  interest in a career as a Back-end Developer (TypeScript and
+                  interest in a career as a Back-end Developer (Node.js / TypeScript and
                   Golang). I&apos;m a fast learner and self-taught. I have
                   learned a lot of new technologies in the past few years by
                   myself on the Internet.
