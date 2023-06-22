@@ -7,17 +7,6 @@ export default function About() {
   useEffect(() => {
     document.title = "About - Akmal Syarifuddin";
   }, []);
-  const handleDownload = () => {
-    fetch("CV-Akmal.pdf").then((response) => {
-      response.blob().then((blob) => {
-        const fileURL = window.URL.createObjectURL(blob);
-        let alink = document.createElement("a");
-        alink.href = fileURL;
-        alink.download = "CV-Akmal-Syarifuddin.pdf";
-        alink.click();
-      });
-    });
-  };
 
   return (
     <div className={styles.container}>
@@ -59,7 +48,7 @@ export default function About() {
                   myself on the Internet.
                 </p>
               </div>
-              <Button variant="warning" onClick={handleDownload}>
+              <Button variant="warning" href="/Akmal Syarifuddin-resume.pdf" target="_blank">
                 <div className="px-md-3">
                   <span className="pe-md-2">Download Resume</span>
                   <img
